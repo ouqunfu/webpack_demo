@@ -1,7 +1,4 @@
 import _ from 'lodash';
-import './style.css';
-import Icon from './icon.ico';
-import Data from './data.xml';
 
 function component() {
   var element = document.createElement('div');
